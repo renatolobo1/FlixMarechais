@@ -1,184 +1,155 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "2019",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Maceio Marechais",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O TIME",
+          "url": "https://www.youtube.com/watch?v=EThpAdTHpaA&t=1s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "LIGA BFA 2019 - Recife Apaches x Maceió Marechais",
+          "url": "https://www.youtube.com/watch?v=pTzWCV1WquM"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "LIGA BFA 2019 - Caruaru Wolves x Maceió Marechais Play Off",
+          "url": "https://www.youtube.com/watch?v=oC6BoiMIR5I"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "LIGA BFA 2019 - Caruaru Wolves x Maceió Marechais",
+          "url": "https://www.youtube.com/watch?v=M0fvDqJ1S0E&t=928s"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Liga BFA Acesso 2019 - Sergipe Redentores",
+          "url": "https://www.youtube.com/watch?v=BSVzDXeR28A"
+        }           
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "2018",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Maceio Marechais",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "LINEFA 2018 – Carrancas FA x Maceió Marechais",
+          "url": "https://www.youtube.com/watch?v=m5zq5eok4I8"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "LINEFA 2018 - Arcoverde Templários Maceió Marechais!",
+          "url": "https://www.youtube.com/watch?v=6_0QIusTuKo&t=575s"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "LINEFA 2018 - Recife Vikings X Maceió Marechais",
+          "url": "https://www.youtube.com/watch?v=1kbOmGn4dCI"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "LINEFA 2018 - Maceió Marechais x Sergipe Redentores",
+          "url": "https://www.youtube.com/watch?v=a9nUHum7XEk&t=1314s"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "LINEFA 2018 - Maceió Marechais x Recife Apaches",
+          "url": "https://www.youtube.com/watch?v=iP_3rYYSM0c"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "2017",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Maceio Marechais",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Maceió Marechais X Arcoverde Templários",
+          "url": "https://www.youtube.com/watch?v=O2sIuDIs7ls&t=518s"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Recife Apaches x Maceió Marechais",
+          "url": "https://www.youtube.com/watch?v=GEHV-G5EQHA&t=34s"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Maceió Marechais x Caruaru Wolves",
+          "url": "https://www.youtube.com/watch?v=ByG0YrEbRYo&t=440s"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Maceió Marechais x Sergipe Redentores",
+          "url": "https://www.youtube.com/watch?v=yLJCTEBBbb4&t=1502s"
+        },
+        {
+          "titulo": "Carrancas x Maceió Marechais",
+          "url": "https://www.youtube.com/watch?v=Ak6fFwf2PQQ&t=7s"
+        },
+        {
+          "titulo": "Natal Scorpion x Maceió Marechais",
+          "url": "https://www.youtube.com/watch?v=R0O241CRqUs&t=1s"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "2016",
       "cor": "orange",
+      "link_extra": {
+        "text": "Maceio Marechais",
+        "url": ""
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Maceió Marechais X Naútico Horses",
+          "url": "https://www.youtube.com/watch?v=7thveztkVG8&feature=youtu.be"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Olinda Sharks x Maceió Marechais",
+          "url": "https://www.youtube.com/watch?v=iT0PrNMWw6w"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Maceió Marechais x ABC Scorpions",
+          "url": "https://www.youtube.com/watch?v=okhJKq0xTBY&feature=youtu.be"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Maceió Marechais x Caruaru Wolves",
+          "url": "https://www.youtube.com/watch?v=eEqh9o-SrtM"
+        },
+        {
+          "titulo": "Maceió Marechais x Arcoverde Templários Semi-Final",
+          "url": "https://www.youtube.com/watch?v=wxA-MiogTAo"
+        },
+        {
+          "titulo": "Maceió Marechais x Tropa Campina Final",
+          "url": "https://www.youtube.com/watch?v=kpqeDrSkIQ4"
         }
+        
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
+        
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-        }
+        
       ]
     }
   ]
