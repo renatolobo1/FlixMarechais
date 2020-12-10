@@ -1,5 +1,6 @@
 .Logo {
   max-width: 168px;
+  
 }
 @media (max-width: 800px) {
   .Logo {
@@ -23,7 +24,7 @@
   padding-left: 5%;
   padding-right: 5%;
 
-  background: var(--black);
+  background: rgb(5, 0, 0);
   border-bottom: 2px solid var(--primary);
 }
 body {

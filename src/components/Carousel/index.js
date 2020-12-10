@@ -19,7 +19,8 @@ function Carousel({
             {categoryTitle}
           </Title>
           {categoryExtraLink && 
-            <ExtraLink href={categoryExtraLink.url} target="_blank">
+            <ExtraLink href={categoryExtraLink.url} >
+            {/* target="_blank" usado acima para abrir em outra pagina */}
               {categoryExtraLink.text}  
             </ExtraLink>
           }

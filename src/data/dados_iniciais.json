@@ -2,16 +2,15 @@
   "categorias": [
     {
       "titulo": "2019",
-      "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Maceio Marechais",
+        "text": "Liga BFA / Conferência Nordeste",
         "url": ""
       },
       "videos": [
         {
           "titulo": "O TIME",
-          "url": "https://www.youtube.com/watch?v=EThpAdTHpaA&t=1s"
+          "url": "https://youtu.be/BY9WqAjxAm0"
         },
         {
           "titulo": "LIGA BFA 2019 - Recife Apaches x Maceió Marechais",
@@ -35,7 +34,7 @@
       "titulo": "2018",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Maceio Marechais",
+        "text": "Liga Nordestina de Futebol Americano",
         "url": ""
       },
       "videos": [
@@ -65,33 +64,33 @@
       "titulo": "2017",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Maceio Marechais",
+        "text": "Liga Nacional / Conferência Nordeste",
         "url": ""
       },
       "videos": [
         {
-          "titulo": "Maceió Marechais X Arcoverde Templários",
-          "url": "https://www.youtube.com/watch?v=O2sIuDIs7ls&t=518s"
+          "titulo": "Carrancas x Maceió Marechais - Liga Nacional 2017",
+          "url": "https://www.youtube.com/watch?v=09o8dSzkvBc&t=1104s"
         },
         {
-          "titulo": "Recife Apaches x Maceió Marechais",
-          "url": "https://www.youtube.com/watch?v=GEHV-G5EQHA&t=34s"
+          "titulo": "Maceió Marechais X Sergipe Redentores - Liga Nacional 2017",
+          "url": "https://www.youtube.com/watch?v=aVqqnbXlR9k"
         },
         {
-          "titulo": "Maceió Marechais x Caruaru Wolves",
-          "url": "https://www.youtube.com/watch?v=ByG0YrEbRYo&t=440s"
+          "titulo": "Maceió Marechais X Caruaru Wolves - Liga Nacional 2017",
+          "url": "https://www.youtube.com/watch?v=Q0ppPcEQGEk"
         },
         {
-          "titulo": "Maceió Marechais x Sergipe Redentores",
-          "url": "https://www.youtube.com/watch?v=yLJCTEBBbb4&t=1502s"
+          "titulo": "Recife Apaches x Maceió Marechais - Liga Nacional 2017",
+          "url": "https://www.youtube.com/watch?v=GOJtCIPVsNk"
         },
         {
-          "titulo": "Carrancas x Maceió Marechais",
-          "url": "https://www.youtube.com/watch?v=Ak6fFwf2PQQ&t=7s"
+          "titulo": "Maceió Marechais X Arcoverde Templários - Liga Nacional 2017",
+          "url": "https://www.youtube.com/watch?v=3CFV71ukpWQ"
         },
         {
-          "titulo": "Natal Scorpion x Maceió Marechais",
-          "url": "https://www.youtube.com/watch?v=R0O241CRqUs&t=1s"
+          "titulo": "Natal Scorpion x Maceió Marechais - Liga Nacional 2017",
+          "url": "https://www.youtube.com/watch?v=dIx4gO1L4XQ&t=1234s"
         }
       ]
     },
@@ -99,7 +98,7 @@
       "titulo": "2016",
       "cor": "orange",
       "link_extra": {
-        "text": "Maceio Marechais",
+        "text": "Liga Nacional / Conferência Nordeste",
         "url": ""
       },
       "videos": [

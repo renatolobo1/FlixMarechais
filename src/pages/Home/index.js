@@ -4,16 +4,17 @@ import dadosIniciais from '../../data/dados_iniciais.json';
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
 import Footer from '../../components/Footer';
+import OTime from '../../components/OTime';
 
 function Home() {
   return (
-    <div style={{ background: "#141414" }}>
+    <div style={{ background: "#001b31" }}>
       <Menu />
 
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Um pouco dos Marechais"}
+        videoDescription={<OTime />}
       />
 
       <Carousel
