@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 const Main = styled.main`
   margin-right: 300px;
-  font-size: 20px;
+  align-items: center;
   /* letter-spacing: 4px; */
   line-height: 2em;
   color: #fff;
