@@ -2,12 +2,19 @@ import React from 'react';
 import styled from 'styled-components';
 
 const Main = styled.main`
-  margin-right: 300px;
+  /* margin-right: 300px; */
   align-items: center;
   /* letter-spacing: 4px; */
+  font-size: 16px;
   line-height: 2em;
   color: #fff;
   text-shadow: 0.1em 0.1em #810e24;
+  margin-top: 26px;
+  
+  @media (max-width: 800px) {
+    font-size: 10px;
+    text-align: center;
+  }
 `;
 
 function OTime(){
